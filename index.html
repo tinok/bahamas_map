@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset='utf-8' />
+		<title>NetHope Bahamas Response | Hurricane Dorian 2019</title>
+		<meta name='viewport' content='initial-scale=1,maximum-scale=1,user-scalable=no' />
+		<script src='https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.0/mapbox-gl.js'></script>
+		<link href='https://api.tiles.mapbox.com/mapbox-gl-js/v1.3.0/mapbox-gl.css' rel='stylesheet' />
+
+		<style>
+			body {
+				margin:0; 
+				padding:0; 
+				font-family: 'Open Sans', sans-serif;
+				font-size: 11px;
+			}
+			#map {
+				position:absolute; top:0; bottom:0; width:100%; 
+			}
+			#legend {
+				position: absolute;
+				bottom:0;
+				left:50%;
+				background: #fff;
+				padding: 1px 11px 2px;
+			}
+			.dot {
+				height: 5px;
+				width: 5px;
+				background-color: #fff;
+				border: 1px solid black;
+				border-radius: 50%;
+				display: inline-block;
+			}
+			.legend__label {
+				font-weight:bold;
+			}
+		</style>
+
+	</head>
+
+	<body>
+	 
+		<div id='map'></div>
+		<div id='legend'>
+			<p>
+				<span class="dot"></span>
+				<span class="legend__label">Cell tower location (source: XXX)</span>
+			</p>
+			<p><a href="https://creativecommons.org/licenses/by/4.0/">CC-BY</a> <a href="https://nethope.org">NetHope</a> 2019</p>		
+		</div>
+
+		<script>
+		mapboxgl.accessToken = 'pk.eyJ1IjoidGlub2siLCJhIjoiY2pkbmdnenV1MGV3cTJxbXBnNWE2dm0ybyJ9.-tUcTC7SWt2dCqUCpF31aw';
+		var map = new mapboxgl.Map({
+			container: 'map', // container id
+			style: 'mapbox://styles/tinok/ck05jbcnc0ygt1crv4pmuhg4o', // stylesheet location
+			center: [-77.142,25.221], // starting position [lng, lat]
+			zoom: 7.2 // starting zoom
+		});
+
+
+		</script>
+	 
+	</body>
+</html>
