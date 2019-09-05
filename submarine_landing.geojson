@@ -1,0 +1,461 @@
+{
+   "type": "FeatureCollection",
+   "features": [
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.525898,24.403330 ]
+    },
+    "properties": {
+    "Name":"Cat Island",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network,ARCOS",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.452780,25.068330 ]
+    },
+    "properties": {
+    "Name":"Caves Point",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Internet Cable System",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.966181,23.098338 ]
+    },
+    "properties": {
+    "Name":"Clarence Town",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.530244,24.052537 ]
+    },
+    "properties": {
+    "Name":"Cockburn Town",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.194990,22.629711 ]
+    },
+    "properties": {
+    "Name":"Crooked Island",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network,ARCOS",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.821940,26.912220 ]
+    },
+    "properties": {
+    "Name":"Crown Haven",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Internet Cable System",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.787500,25.407780 ]
+    },
+    "properties": {
+    "Name":"Current",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Internet Cable System",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.733466,22.183263 ]
+    },
+    "properties": {
+    "Name":"Duncan Town",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.802861,26.539621 ]
+    },
+    "properties": {
+    "Name":"Eight-Mile Rock",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas 2",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.844610,24.689805 ]
+    },
+    "properties": {
+    "Name":"Fresh Creek",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -75.788007,23.516551 ]
+    },
+    "properties": {
+    "Name":"George Town",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -76.240643,25.196116 ]
+    },
+    "properties": {
+    "Name":"Governors Harbor",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.736846,26.516904 ]
+    },
+    "properties": {
+    "Name":"Hawksbill",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Internet Cable System,Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.683076,20.950512 ]
+    },
+    "properties": {
+    "Name":"Matthew Town",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -73.064131,22.401561 ]
+    },
+    "properties": {
+    "Name":"Mayaguana",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.340252,25.067039 ]
+    },
+    "properties": {
+    "Name":"Nassau",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network,ARCOS,Bahamas 2",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -74.840546,23.652147 ]
+    },
+    "properties": {
+    "Name":"Port Nelson",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -78.245830,26.616670 ]
+    },
+    "properties": {
+    "Name":"Riding Point",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Internet Cable System",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+       "type": "Point",
+       "coordinates":  [ -77.399529,26.025205 ]
+    },
+    "properties": {
+    "Name":"Sandy Point",
+    "Country":"Bahamas",
+    "Address (Block Format)":"",
+    "Site Type":"Cable Landing Station",
+    "Site Stakeholder":"Bahamas Internet Cable System,Bahamas Domestic Submarine Network",
+    "Asset":"",
+    "Phone Number":"",
+    "Fax Number":"",
+    "Notes":"",
+    "Attachments":"",
+    "Security Comms":"",
+    "Security Comms 2":"",
+    "Country 2":"",
+    "Security Comms 3":"",
+    "Field 17":""
+    }
+  }
+]
+}

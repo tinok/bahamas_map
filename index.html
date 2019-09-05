@@ -58,7 +58,27 @@
 			center: [-77.992,26.572], 
 			zoom: 8.6 
 		});
+		map.on("load", function() {
+			map.addSource("submarine-cables", {
+				"type": "geojson",
+				"data": 'submarine_landing.geojson'
 
+
+
+				});
+		 
+				map.addLayer({
+				"id": "landing-sites",
+				"type": "circle",
+				"source": "submarine-cables",
+				"paint": {
+				"circle-radius": 5,
+				"circle-color": "#fff",
+				"circle-stroke-width": 1
+				},
+				"filter": ["==", "$type", "Point"],
+				});
+		});
 
 		</script>
 	 
